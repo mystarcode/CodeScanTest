@@ -1,0 +1,6 @@
+C:\SourceCode\CodeScanTest\bin\Debug\CodeScanTest.exe
+C:\SourceCode\CodeScanTest\bin\Debug\CodeScanTest.pdb
+C:\SourceCode\CodeScanTest\obj\Debug\CodeScanTest.csproj.AssemblyReference.cache
+C:\SourceCode\CodeScanTest\obj\Debug\CodeScanTest.csproj.CoreCompileInputs.cache
+C:\SourceCode\CodeScanTest\obj\Debug\CodeScanTest.exe
+C:\SourceCode\CodeScanTest\obj\Debug\CodeScanTest.pdb
