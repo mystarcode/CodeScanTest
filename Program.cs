@@ -15,6 +15,12 @@ namespace CodeScanTest
             }
             Console.ReadLine();
             RunQeury(5, "empty");
+            string queryTest = "select * from dbo.people where rowid=" + args[0];
+            Console.WriteLine(queryTest);
+            if (args[0].Equals("No"))
+            {
+                Console.WriteLine("Matched");
+            }
         }
 
         static void RunQeury(int a,string value)
